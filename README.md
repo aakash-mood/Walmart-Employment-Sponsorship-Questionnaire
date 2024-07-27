@@ -5,7 +5,7 @@ To automate answering the questionnaire on the provided Walmart Workday page, yo
      pip install undetected-chromedriver
      
   2. Enable Remote Debugging in Chrome:
-     Start Chrome with remote debugging enabled: "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\Users\<YourUsername>\chrome_devtools"
+     Start Chrome with remote debugging enabled: & "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\Users\<YourUserName>\chrome_devtools"
 
   3. Set Up WebDriver:
      Ensure you have the appropriate WebDriver for your browser (e.g., ChromeDriver for Chrome).
